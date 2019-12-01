@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace eSkokDemo_AutoTest
+namespace Selenium.IDE
 {
-    class Header
+    class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }

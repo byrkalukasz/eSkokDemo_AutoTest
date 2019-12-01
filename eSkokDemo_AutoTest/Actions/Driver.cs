@@ -1,9 +1,9 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace eSkokDemo_AutoTest
+namespace Selenium.IDE
 {
-    class Driver
+    public static class Driver
     {
         public static IWebDriver ChromeDriver { get; set; }
     }

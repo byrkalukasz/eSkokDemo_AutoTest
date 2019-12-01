@@ -1,4 +1,4 @@
-﻿namespace eSkokDemo_AutoTest
+﻿namespace Selenium.IDE
 {
     class Config
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace eSkokDemo_AutoTest.TestScenario
+namespace Selenium.IDE.TestScenario
 {
     class LoginScenario
     {
